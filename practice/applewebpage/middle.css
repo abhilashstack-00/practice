@@ -1,0 +1,54 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+#main{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#nav{
+    height: 30px;
+    width: 100%;
+    background-color: lightgray;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    /* position: fixed; */
+}   
+
+#pic{
+    height: 350px;
+    width: 100%;
+    background-image: url(https://www.apple.com/in/home/heroes/iphone-family/images/hero_iphone_family__fuz5j2v5xx6y_small.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+
+}
+#btns h3{
+    font-weight: normal;
+}
+#btns{
+    font-family: sans-serif;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    background-color: #118cff;
+    border-radius: 50px;
+    padding: 3px 5px;
+    
+}
