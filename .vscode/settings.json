@@ -1,4 +1,4 @@
 {
-    "liveSassCompile.settings.showOutputWindowOn": "None",
-    "liveSassCompile.settings.watchOnLaunch": true
+  "liveSassCompile.settings.showOutputWindowOn": "None",
+  "liveSassCompile.settings.watchOnLaunch": true,
 }
