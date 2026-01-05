@@ -54,21 +54,21 @@ main{
             width: 100%;
             background-color: #1E1E1E;
             @include flex-column(4rem);
-            padding: 2rem;
+            padding: 2.5rem;
             // justify-content: space-between;
             .first{
                 text-transform: uppercase;
             }
             .last{
                 @include flex-column(1rem);
-                // padding: 0.2rem;
+                padding: 0.2rem;
                 h1{
                     text-transform: uppercase;
                     font-weight: 400;
-                    font-size: 2.3rem;
+                    font-size: 3.5rem;
                 }
                 p{
-                    font-size: 1.2rem;
+                    font-size: 2rem;
                     opacity: 70%;
                     line-height: 2;
                 }

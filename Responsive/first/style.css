@@ -49,7 +49,7 @@ main section .bottom {
   display: flex;
   flex-direction: column;
   gap: 4rem;
-  padding: 2rem;
+  padding: 2.5rem;
 }
 main section .bottom .first {
   text-transform: uppercase;
@@ -58,14 +58,15 @@ main section .bottom .last {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  padding: 0.2rem;
 }
 main section .bottom .last h1 {
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 2.3rem;
+  font-size: 3.5rem;
 }
 main section .bottom .last p {
-  font-size: 1.2rem;
+  font-size: 2rem;
   opacity: 70%;
   line-height: 2;
 }
